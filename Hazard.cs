@@ -9,6 +9,7 @@ namespace SOSC
 {
     class Hazard : GameObject
     {
+        int one 1;
         Player player;
         float speed;
 
