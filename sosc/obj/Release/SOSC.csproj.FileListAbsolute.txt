@@ -1,0 +1,17 @@
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\bin\Release\SOSC.exe.config
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\bin\Release\Sprites\BackGroundFullSprite.png
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\bin\Release\Sprites\BlankWall.png
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\bin\Release\Sprites\PlayerDeadBase.png
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\bin\Release\Sprites\SantaJump.png
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\bin\Release\Sprites\SantaJumpInvert.png
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\bin\Release\Sprites\SpecSantaBase.png
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\bin\Release\Sprites\SpikeBaseLeft.png
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\bin\Release\Sprites\SpikeBaseRight.png
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\bin\Release\Sprites\WallLarge.png
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\bin\Release\SOSC.exe
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\bin\Release\SOSC.pdb
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\obj\Release\SOSC.Form1.resources
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\obj\Release\SOSC.Properties.Resources.resources
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\obj\Release\SOSC.csproj.GenerateResource.Cache
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\obj\Release\SOSC.exe
+C:\Users\FrederikTaaningGrund\Source\Workspaces\Dropper\SOSC2\sosc\SOSC\obj\Release\SOSC.pdb
