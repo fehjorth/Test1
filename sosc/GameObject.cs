@@ -10,6 +10,7 @@ namespace SOSC
     abstract class GameObject
     {
         string tester;
+        string tester2;
         int one;
         protected Vector2D position;
         Image sprite;
