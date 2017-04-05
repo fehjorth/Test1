@@ -9,6 +9,7 @@ namespace SOSC
 {
     abstract class GameObject
     {
+        int one;
         protected Vector2D position;
         Image sprite;
         protected List<Image> animationFrames;
