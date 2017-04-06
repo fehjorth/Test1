@@ -80,6 +80,7 @@ namespace SOSC
         public virtual void Update(Graphics dc, float fps)
         {
             tester = "her derp";
+            tester = "her derp 2";
             CheckCollision();
             one++;
         }
