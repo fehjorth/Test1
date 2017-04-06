@@ -80,6 +80,7 @@ namespace SOSC
         public virtual void Update(Graphics dc, float fps)
         {
             CheckCollision();
+            one++;
         }
 
         private void CheckCollision()
