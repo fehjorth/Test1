@@ -83,6 +83,7 @@ namespace SOSC
             tester = "her derp 2";
             CheckCollision();
             one++;
+            tester = "derp1";
         }
 
         private void CheckCollision()
