@@ -20,6 +20,7 @@ namespace SOSC
         float animationSpeed;
         private List<GameObject> collidingObjects = new List<GameObject>();
 
+
         public Image Sprite
         {
             set { sprite = value; }

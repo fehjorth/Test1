@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 using System.Data.SqlClient;
+using System.Runtime.InteropServices;
+using System.Reflection;
+using System.Diagnostics;
 
 namespace SOSC
 {
@@ -75,6 +78,16 @@ namespace SOSC
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+              }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            string version = FileVersionInfo.GetVersionInfo(Assembly.GetExecutingAssembly().Location).FileVersion;
 
         }
     }
