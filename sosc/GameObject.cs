@@ -83,6 +83,7 @@ namespace SOSC
             tester = "her derp 2";
             tester = "dick";
             tester = "cunt punter";
+            tester = "cunt punter 2: electric boogaloo";
             tester = "hbuesfjnseg";
             tester = "oeifhsgnrk";
             CheckCollision();
