@@ -11,6 +11,7 @@ namespace SOSC
     {
         string tester;
         string tester2;
+        string tester3;
         int one;
         protected Vector2D position;
         Image sprite;
